@@ -1,0 +1,9 @@
+.vs/
+.obj/
+* .vsidx
+* .db
+* .ipch
+/.vs/
+* .env
+.env
+
